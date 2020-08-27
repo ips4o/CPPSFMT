@@ -1,7 +1,7 @@
 /**
  * @file AlignedUniquePtr.hpp
  *
- * @author Michael Axtmann <michael.axtmann@kit.edu>
+ * @author Michael Axtmann <michael.axtmann@gmail.com>
  *
  * The new BSD License is applied to this software, see LICENSE.txt
  */
