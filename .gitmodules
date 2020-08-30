@@ -1,6 +1,3 @@
 [submodule "extern/dSFMT"]
 	path = extern/dSFMT
 	url = https://github.com/MersenneTwister-Lab/dSFMT.git
-[submodule "extern/SFMT"]
-	path = extern/SFMT
-	url = https://github.com/MersenneTwister-Lab/SFMT.git
