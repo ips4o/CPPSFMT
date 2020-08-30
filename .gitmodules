@@ -1,3 +1,0 @@
-[submodule "extern/dSFMT"]
-	path = extern/dSFMT
-	url = https://github.com/MersenneTwister-Lab/dSFMT.git
